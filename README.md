@@ -1,3 +1,11 @@
+#AI-driven mock interview platform built using React, Next.js, PostgreSQL, NeonDB, Clerk, Drizzle ORM, and the Gemini API. 
+
+This tool replicates real-world interview scenarios by generating personalized questions based on user profiles and selected roles. 
+
+It delivers instant AI feedback and detailed analytics to help users track their progress and improve over time. 
+Designed to assist job seekers in building confidence and enhancing their interview performance through adaptive and interactive preparation.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
